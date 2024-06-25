@@ -6,6 +6,6 @@
     <title>Inicio</title>
 </head>
 <body>
-    <h1>Hola empezamosgit s</h1>
+    <h1>En proceso</h1>
 </body>
 </html>
